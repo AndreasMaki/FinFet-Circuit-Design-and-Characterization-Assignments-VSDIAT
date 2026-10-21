@@ -1,1 +1,6 @@
-
+Username: Andreas Maki
+"ASCII"=97+110+100+114+101+97+115+32+109+97+107+105=1184
+To fill the characterization table, for Id firstly it was plotted (see transient Id) and then measured from the graph.
+The commands where: 
+let id=v2#branch
+plot id
