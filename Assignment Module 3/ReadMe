@@ -1,1 +1,2 @@
-
+For Line Reg. a dc sweep is made around Vdd and then lr is calculated as lr=(Vrefmax-Vrefmin)/(Vddmax-Vddmin)
+For startup time it was measured from the plot of Vref by clicking on it and receiving the coordinates
